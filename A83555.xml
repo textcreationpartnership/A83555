@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament. One for the abolishing of archbishops and bishops, within the kingdome of England and dominion of Wales, and for setling of their lands and posessions upon trustees, for the use of the common-wealth: the other, for securing of all those that shall advance the two hundred thousand pound for the service of the state. Die Martii, Octob. 13. 1646. Ordered by the Lords assembled in Parliament that these ordinances be forthwith printed and published. John Brown, Cler. Parliamentorum.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83555</idno>
+            <idno type="STC">Wing E2411</idno>
+            <idno type="STC">Thomason E357_8</idno>
+            <idno type="STC">ESTC R201149</idno>
+            <idno type="EEBO-CITATION">99861697</idno>
+            <idno type="PROQUEST">99861697</idno>
+            <idno type="VID">113838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113838)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E357[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament. One for the abolishing of archbishops and bishops, within the kingdome of England and dominion of Wales, and for setling of their lands and posessions upon trustees, for the use of the common-wealth: the other, for securing of all those that shall advance the two hundred thousand pound for the service of the state. Die Martii, Octob. 13. 1646. Ordered by the Lords assembled in Parliament that these ordinances be forthwith printed and published. John Brown, Cler. Parliamentorum.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings-head in the Old Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Octob. 14, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The two ordinances are dated October 9 and 13 respectively.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Church of England --  Benefices --  Early works to 1800.</term>
+               <term>Church lands --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113838:1"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:113838:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <p>TWO ORDINANCES OF THE LORDS and COMMONS Aſſembled in PARLIAMENT.</p>
+            <p>ONE For the aboliſhing of Archbiſhops and Biſhops, within the Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> and for ſetling of their Lands and Poſſeſſions upon Truſtees, for the uſe of the Common-wealth: <hi>The other,</hi> For ſecuring of all thoſe that ſhall advance the two hundred thouſand pound for the ſervice of the State.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martii, Octob. 13. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords aſſembled in Parliament that theſe Ordinances be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>John Brown, Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings-head in the Old Baily. <hi>Octob.</hi> 14, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:113838:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb n="1" facs="tcp:113838:2"/>
+            <!-- PDF PAGE 37 -->
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 9. Octob. 1646.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of Parliament, for the aboliſhing of Archbiſhops, and Biſhops, within the King<g ref="char:EOLhyphen"/>dome of England, and Dominion of Wales, and for ſetling of their Lands and Poſſeſſions, upon Tru<g ref="char:EOLhyphen"/>ſtees for the uſe of the Common-wealth.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or the aboliſhing of Archbiſhops, and Bi<g ref="char:EOLhyphen"/>ſhops and providing for the payment of the juſt and neceſſary debts of the King<g ref="char:EOLhyphen"/>dome, into which the ſame hath bin drawn by a War, mainely promoted by and in favour of the ſaid Archbiſhops, and Biſhops, and other their Adherents, and Dependents. Be it Ordained, and it is Ordained by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled, and by the authority of the ſame; That the Name, Title, Stile and Dignity of Archbiſhop of Canterbury, Archbiſhop of York, Biſhop of Win<g ref="char:EOLhyphen"/>cheſter, Biſhop of Dureſme, and of all other Biſhops of any Biſhopricks within the Kingdome of England, and Dominion of Wales, be from and after the fifth day of <hi>September,</hi> in the yeere of our Lord God 1646. wholly aboliſhed and taken away, and are hereby aboliſhed and taken away, And all and every perſon and perſons are and be thenceforth diſabled to hold the place, function or ſtile of Archbiſhop or Biſhop of any Church, Sea, or Dioceſſe now eſtabliſhed or erected, or hereafter to be eſtabliſhed or erected with<g ref="char:EOLhyphen"/>in the Kingdome of England, Dominion of Wales or Towne of Barwick, or to uſe or put in ure any Ar<g ref="char:EOLhyphen"/>chiepiſcopall or Epiſcopall Juriſdiction, or authority, by
+<pb n="2" facs="tcp:113838:3"/>
+               <!-- PDF PAGE 38 -->force of any Letters Patents from the Crowne, made or to be made, or by any other authority whatſoever, any Law Statute, Uſage or Cuſtome to the contrary notwithſtanding. And be it further Ordained; and it is hereby Ordained, That all Counties Palatine, Honors, Mannors, Lordſhips, Stiles, Circuits, Precincts, Caſtles, Granges, Meſſuages, Mils, Lands, Tenemen<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, Meadowes, Paſtures, Parſonage, appropriate Titles, Oblations, Obventions, Pentions, Portions of Tithes, Parſonages, Vicarages, Churches, Chappells, Advowſons, Dona<g ref="char:EOLhyphen"/>tives, Nominations, Rights of Patronage and Preſen<g ref="char:EOLhyphen"/>tation, Parkes, Woods, Rents, Reverſions, Services, Annuities, Franchiſes, Liberties, Priviledges, Imuni<g ref="char:EOLhyphen"/>ties, Rights of Action and of entry, Intereſts, Titles of Entry, Conditions, Commons Court Leet, and Courts Baron; and all other Poſſeſſions and Heredita<g ref="char:EOLhyphen"/>ments whatſoever, with all and every of their appur<g ref="char:EOLhyphen"/>tenances of what nature or quality ſoever they bee, which now are, or at any time within ten years before the beginning of this preſent Parliament, were be<g ref="char:EOLhyphen"/>longing to the ſaid Archbiſhops or Biſhops. Archbiſhop<g ref="char:EOLhyphen"/>ricks, or Biſhopricks or any of them, which they or any of them had held and enjoyed in the Right of their Archbiſhopricks, or Biſhopricks dignities, Offices or Places reſpectively; Together with all Charters, Deeds, Books, Accounts, Rolls, and other Writings and Evi<g ref="char:EOLhyphen"/>dences whatſoever, concerning the Premiſes or any of them; which do belong to any the ſaid Archbiſhops, or Biſhops, Archbiſhopricks, and Biſhopricks, are veſted and ſetled, adjudged and deemed to bee and are hereby in the reall and actuall poſſeſſion, and ſeiſing of <hi>Thomas Adams</hi> Alderman, now Lord Major of the City of London, Sir <hi>Iohn Wollaſton</hi> Knight, Sir <hi>George Clarke</hi>
+               <pb n="3" facs="tcp:113838:3"/>
+               <!-- PDF PAGE 38 -->Knight, <hi>Iohn Langham</hi> Alderman, <hi>Iohn Fowke</hi> Alder<g ref="char:EOLhyphen"/>man, <hi>J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce</hi> Alderman, <hi>VVilliam Gibbs</hi> Alderman, <hi>Samuel Avery</hi> Alderman, <hi>Thomas Noell, Chriſtopher Packe, Iohn Bellamy, Edward Hooker, Thomas Arnold, Richard Glide, VVilliam Hobſon, Francis Aſh, Iohn Babington, Lau<g ref="char:EOLhyphen"/>rence Bromſeild, Alexander Jones, Iohn Iones, Richard Venner, Stephen Eſtwick, Robert Mead,</hi> and <hi>Iames Story;</hi> Their Heires and Aſſignes; And that they the ſaid, <hi>Thomas Adams,</hi> now Lord Major of the City of London, Sir <hi>Iohn Wollaſton</hi> Knight, Sir <hi>George Clerke</hi> Knight, <hi>John Langham</hi> Alderman, <hi>Iohn Fowke</hi> Alderman, <hi>Iames Bunce</hi> Alderman, <hi>William Gibbs</hi> Alderman, <hi>Samuel Avery</hi> Al<g ref="char:EOLhyphen"/>derman, <hi>Thomas Noell, Chriſtopher, Pack, Iohn Bellamy, Ed<g ref="char:EOLhyphen"/>ward Hooker, Thomas Arnold, Richard Glyde, William Hob<g ref="char:EOLhyphen"/>ſon, Franois Aſh, Iohn Babington, Laurence Bromfield, Alex<g ref="char:EOLhyphen"/>ander Iones, Iohn Iones Richard Vennor, Stephen Eſtwick, Robert Mead,</hi> and <hi>Iames Story</hi> and the Surviver and Sur<g ref="char:EOLhyphen"/>vivers of them and their Heires, and Aſſignes, ſhall hold all ſuch the premiſſes as are now held of the King, of the King his Heires and Succeſſors, as of His Mannor of Eaſt Greenewich in Fee and Common ſoccage by fealty, and the Annuall Rents thereof reſpectively due, and paya<g ref="char:EOLhyphen"/>ble within ten yeers laſt paſt, before the beginning of this preſent Parliament, and not in capite, nor by other Ten<g ref="char:EOLhyphen"/>ures or ſervices; and ſhall hold all and every the pre<g ref="char:EOLhyphen"/>miſſes, which the ſaid Archbiſhops, and Biſhops held of any other, then of the King, by the Rents, and other ſer<g ref="char:EOLhyphen"/>vices therefore due, and of right accuſtomed; And the ſaid Truſtees, their heires, aſſignes, Formers, &amp; Tenants, ſhall alſo have, hold, and enjoy the premiſes, and every of them; freed, acquitted and diſcharged of, and from the payment of Tithes, as fully as the ſaid Archbiſhops, and Biſhops did hold and injoy, or ought to hold
+<pb n="4" facs="tcp:113838:4"/>
+               <!-- PDF PAGE 39 -->and enjoy the ſame, at any time, during the ſpace of ten Yeares aforementioned, or any time ſince. And it is further by the ſame authority ordained, that the ſaid Truſtees ſhall have power and are authorized, to make, nominate and appoint from time to time, fit and able perſons, ſuch as they ſhall think fit, to ſervey the premiſes in any County or Counties of <hi>England</hi> and <hi>Wales,</hi> and to hold Court of ſerveys, and to demand, re<g ref="char:EOLhyphen"/>ceive, and in ſafe cuſtody to put all the ſaid Charters, deeds, bookes, accompts rolls, writings, and evidences, that they may be put in ſuch place in the City of <hi>London,</hi> as the ſaid perſons before named or the Major part of them ſhall order and appoint; And the ſaid Truſtees or any three or more of them as aforeſaid are hereby au<g ref="char:EOLhyphen"/>thorized and required to adminiſter an Oath unto all and every the Serveyors who ſhall take the ſame before he ſhall execute the ſaid place, in theſe words, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>I</hi> A. B. <hi>doe ſweare, that I will faithfully and truely, ac<g ref="char:EOLhyphen"/>cording to my beſt skill and knowledge execute the place of a Surveyor, according the purport of an Ordinance, entituled,</hi> an Ordinance of Parliament for the aboliſhing of ArchBiſhops and Biſhops within the Kingdome of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and dominion of <hi>Wales,</hi> and for ſetling of their Lands and poſſeſſions upon Truſtees, for the uſe of the Common-wealth. <hi>I ſhall uſe my beſt endeavour and skill to recover the Eſtate therein mentioned, and every part thereof, which ſhall be given me in charge, and to finde out the true values and improvements thereof, and thereof ſhall make true particulars, according to my beſt skill and cunning; and the ſame from time to time deliver in writing cloſe ſealed up, unto the ſaid Truſtees, or any two of them, ac<g ref="char:EOLhyphen"/>cording to the true intent and meaning of the ſaid Ordinance; and this I ſhall juſtly and faithfully execute, without any
+<pb n="5" facs="tcp:113838:4"/>
+                     <!-- PDF PAGE 39 -->gift or reward, directly or indirectly, from any perſon or perſons whatſoever.</hi>
+               </p>
+            </q>
+            <p>Nevertheleſſe it is declared and ordained, that the ſaid perſons before named, their Heires and Aſſignes ſhall have and hold the premiſes and every of them ſubject to ſuch truſts and confidence as both Houſes of Parlia<g ref="char:EOLhyphen"/>ment ſhall appoint, and declare and diſpoſe of the ſame, and the Rents and Profits thereof as the ſaid Houſes ſhall order and appoint; wherein the Lords and Com<g ref="char:EOLhyphen"/>mons doe declare, that due reſpect ſhall be had towards ſuch perſons and their Aſſignes as are interreſſed in the premiſſes by vertue of any demiſe heretofore made, provided that the ſaid Truſtees their Heires or Aſſignes ſhall not avoid any leaſes made for any Terme or eſtate, not exceeding three lives, or one and twenty yeares in poſſeſſion, or in ſuch manner as that together with the leaſe in being ſhall not exceed three lives or one and twenty yeares, ſo as the old and accuſtomed rent and rents or ſo much rent and rents, as the ancient and ac<g ref="char:EOLhyphen"/>cuſtomed rent amounteth unto, be reſerved payable during the ſaid voidable Terme and Termes or eſtates, and ſo as the ſaid leaſes have not been procured or pur<g ref="char:EOLhyphen"/>chaſed of any Biſhop, ſince the firſt day of <hi>December, Anno Domine.</hi> 1641. And be it further Ordained by the authority aforeſaid, that if any Arch-Biſhop or Bi<g ref="char:EOLhyphen"/>ſhop have at any time ſince the firſt day of <hi>December, An<g ref="char:EOLhyphen"/>no Domine.</hi> 1641. made any grant or leaſe to any per<g ref="char:EOLhyphen"/>ſon or perſons, body politique or Corporate of any the Houſes, Mannors, Lordſhips, Meſſuages, Lands, Tene<g ref="char:EOLhyphen"/>ments, and Hereditaments, or any other the premiſſes a<g ref="char:EOLhyphen"/>foreſaid, or any of them in right of their Arch-Biſhop<g ref="char:EOLhyphen"/>ricks or Biſhopricks, the ſame grant or leaſe ſhall be utterly void and of none effect; and the perſon or per<g ref="char:EOLhyphen"/>ſons,
+<pb n="6" facs="tcp:113838:5"/>
+               <!-- PDF PAGE 40 -->body politique or Corporate, unto whom the ſame was made ſhall have no benefit thereby; provided, and be it ordeined, and it is hereby ordained, that if any perſon or perſons, body politique or Corporate, at a<g ref="char:EOLhyphen"/>ny time or times ſince the firſt day of <hi>December,</hi> in the yeare of our Lord God, 1641. who had any grant or leaſe for one or more life or lives, or any number of yeares of the premiſſes or any part thereof as is aforeſaid and ſurrendred the ſame; To the end that he or they might have a new grant or leaſe granted or made unto him or them, which by this preſent Ordinance is made voide, and the ſame was accordingly granted or made unto him or them; That the ſaid perſon or perſons, bo<g ref="char:EOLhyphen"/>dy politique or Corporate, who hath ſo ſurrendred any ſuch former grant or leaſe, his and their heires, ſuc<g ref="char:EOLhyphen"/>ceſſors, Executors, Adminiſtrators and Aſſignes, ſhall have, hold, poſſeſſe and enjoy ſuch time and terme as he or they had in any part of the ſaid premiſes by vertue of any ſuch former grant or leaſe, in ſuch ſort and man<g ref="char:EOLhyphen"/>ner as he or they ſhould have had, held, and enjoyed the ſame, if no ſuch ſurrender had been made, ſubject never<g ref="char:EOLhyphen"/>theleſſe to ſuch payments of rent and other ſervices, and ſuch covenants, conditions and agreements as in the ſaid former Leaſes were expreſſed and contained, ſaving unto all and every perſon and perſons, their heires, exe<g ref="char:EOLhyphen"/>cutors and adminiſtrators, bodies politique and corpo<g ref="char:EOLhyphen"/>rate, and their ſucceſſors, other then the King, his heires, and ſucceſſors, all Archbiſhops, Biſhops, and other them the founders and donors as founders and donors of and to the ſaid Archbiſhopricks and Biſhopricks, and their heires, all ſuch right and title, intereſt, poſſeſſion, rights in Law, or equity, entries, annuities, com<g ref="char:EOLhyphen"/>modities, fees, and other profits which they or any of
+<pb n="7" facs="tcp:113838:5"/>
+               <!-- PDF PAGE 40 -->them before the ſaid firſt day of December, 1641. ought lawfully to have had in, or to the Premiſſes, or any part or parcell thereof, as if this Ordinance had never been had or made; alſo ſaving to all ſuch perſon or perſons as have adheared to the Parliament, all ſuch eſtate as he or they ſince the firſt day of May, <hi>An. Dom.</hi> 1641. have forfeited or made forfitable for non payment of Rent, or not perfor<g ref="char:EOLhyphen"/>ming of ſervices to any Biſhop or Biſhops, except it be in the caſe of a Leaſe made utterly void by this Ordinance, by reaſon the ſame hath been procured or purchaſed of any Biſhop ſince the aforeſaid firſt day of December, <hi>Anno Dom.</hi> 1641. and likewiſe ſaving to <hi>Philip</hi> Earle of <hi>Pem<g ref="char:EOLhyphen"/>brook</hi> and <hi>Montgomery,</hi> and his Heires, all ſuch right as he and they have to the Meſſuage called <hi>Duriſme Houſe,</hi> and certaine Stables, late of the poſſeſſion of <hi>Thomas</hi> Bi<g ref="char:EOLhyphen"/>ſhop of Duriſme, ſcituate in the Pariſh of S. <hi>Martins</hi> in the Fields, in the County of Middlefex, lately granted by Act of this preſent Parliament; this preſent Ordinance or any thing therein contained in any wiſe notwithſtanding. Pro<g ref="char:EOLhyphen"/>vided alſo, and it is hereby further Ordained by the autho<g ref="char:EOLhyphen"/>rity aforeſaid, that all and ſingular Revenues, Rents, Iſſues, Fees, Profits, ſummes of Money, and allowances whatſo<g ref="char:EOLhyphen"/>ever as have heretofore been, and now ought to be paid, diſpoſed, and allowed unto and for the maintenance of any Grammer Schoole, or Schollers, or for or toward the reparation of any Church, Chappell, High-way, Cauſeway, Bridges, Schoole-houſe, Almeſ-houſe, or any other cha<g ref="char:EOLhyphen"/>ritable or pious uſe, or for maintaining of any Lecture, or Preachers payable out of any the Premiſſes, or which are chargeable, or ought to iſſue out of, or to be paid for, or in reſpect of the ſaid Premiſſes, or any of them ſhall
+<pb n="8" facs="tcp:113838:6"/>
+               <!-- PDF PAGE 41 -->be and continue to be paid and allowed as they were, and have been heretofore, any thing in this preſent Ordinance to the contrary in any wiſe notwithſtanding. And it is fur<g ref="char:EOLhyphen"/>ther Ordained, that the Sheriffe of every County &amp; place, who is to attend the reſpective Courts where any Felony is to betried and determined, ſhall provide and preſent to the Judge or Judges of ſuch Courts, ſome able and fit per<g ref="char:EOLhyphen"/>ſon to doe ſuch things as by the Office of the Ordinary have been uſed to be done; which perſon and perſons ſhall have Authority, and are hereby enjoyned to per<g ref="char:EOLhyphen"/>forme that ſervice in ſuch manner as the reſpective Ordi<g ref="char:EOLhyphen"/>naries heretofore have uſed to doe. Provided alſo, that all Commiſſions upon the Statute of charitable uſes ſhall be valid, though the Biſhop be therein omitted, and the other Commiſſioners ſhall proceed therein as fully as they might have heretofore done, when the Biſhop was therein named; and that all Iſſues triable by the Ordina<g ref="char:EOLhyphen"/>ry or Biſhop, ſhall be tried by Jury in uſuall courſe.</p>
+            <closer>
+               <signed>John Brown Cler. Parl.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb n="9" facs="tcp:113838:6"/>
+            <!-- PDF PAGE 41 -->
+            <opener>
+               <dateline>
+                  <date>Die Martis 13 October 1646.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment intending to raiſe the ſumme of two hun<g ref="char:EOLhyphen"/>dred thouſand pounds, for the preſent ſervice of the State, for the encouragement of ſuch as ſhall advance any ſumme for and towards the ſame, and to the in<g ref="char:EOLhyphen"/>tent they may have notice thereof do declare, That every perſon who hath advanced any Monies, Plate, or Horſes, with their Furniture and Armes, upon the Publique Faith, may for every ſumme of money he ſhall further lend, for the advancement of the ſaid ſumme, be ſecured a like ſumme more out of the Receipt of the Grand Exciſe in courſe, and the ſale of the Biſhops Lands, (except Advowſans and Impropriations) which ſhall firſt happen, together with the intereſt after the rate of eight <hi>per centum, per annum,</hi> to be paid every ſixe moneths, out of the Receipts of the Exciſe, till Princi<g ref="char:EOLhyphen"/>pall and Intereſt be fully diſcharged. As for example, If there be owing to any perſon 100 <hi>l.</hi> Principall, which, with Intereſt due thereupon, for three yeeres paſt, will make 124. <hi>l.</hi> he adventuring 124. <hi>l.</hi> more, may be ſecu<g ref="char:EOLhyphen"/>red for the whole 248. <hi>l.</hi> as aforeſaid, and ſo proporti<g ref="char:EOLhyphen"/>onably for a greater or leſſer ſumme, and according to the
+<pb n="10" facs="tcp:113838:7"/>
+               <!-- PDF PAGE 42 -->Intereſt due thereupon; And for the more ſpeedy re-im<g ref="char:EOLhyphen"/>burſing of the ſaid money ſecured and lent for the pur<g ref="char:EOLhyphen"/>poſe aforeſaid, That the ſaid Lands of the Biſhops, (ex<g ref="char:EOLhyphen"/>cept before excepted) are Eſtated and made over to ſuch Feoffees for the ſpeedy ſale thereof, and ſuch Treaſurers for the Receipt of the Monies, as may give ſatisfaction to the Lenders. And the ſaid Lords and Commons do de<g ref="char:EOLhyphen"/>clare, That it ſhall and may be lawfull for any perſon or perſons, to aſſigne his Right and Intereſt in any ſumme or ſummes of money owing to him upon the Publique Faith, as aforeſaid, to any perſon or perſons that will ad<g ref="char:EOLhyphen"/>vance the like ſumme, in manner as is before expreſſed.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113838:7"/>
+            <!-- PDF PAGE 42 -->
+         </div>
+      </body>
+   </text>
+</TEI>
